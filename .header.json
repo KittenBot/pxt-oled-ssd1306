@@ -1,0 +1,20 @@
+{
+    "target": "microbit",
+    "targetVersion": "1.4.11",
+    "name": "SSD1306_OLED",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "61af6cba-af9a-47d7-607d-67289d6eb3ad",
+    "recentUse": 1570694532,
+    "modificationTime": 1570694532,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "pxt-oled-ssd1306",
+    "githubCurrent": false,
+    "saveId": null
+}
