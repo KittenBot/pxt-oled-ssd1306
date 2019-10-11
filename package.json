@@ -1,6 +1,6 @@
 {
   "name": "pxt-oled-ssd1306",
-  "version": "2.0.8",
+  "version": "2.0.7",
   "dependencies": {},
   "devDependencies": {
     "pxt": "^0.3.0",
